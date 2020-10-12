@@ -1,3 +1,5 @@
+#program of rock paper and scissor game between computer and the user. 
+
 import random
 #moves for Computer
 moves = ["r","p", "s"]
